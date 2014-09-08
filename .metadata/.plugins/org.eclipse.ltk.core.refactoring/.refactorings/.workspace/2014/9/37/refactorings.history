@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;testSkills/src/test1/DuplicateTestTest.java&apos;" deleteContents="false" description="Delete resource &apos;testSkills/src/test1/DuplicateTestTest.java&apos;" element1="/testSkills/src/test1/DuplicateTestTest.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1410202177201"/>&#x0A;<refactoring comment="Delete 2 resources" deleteContents="false" description="Delete 2 resources" element1="/testSkills/src/test1/consecutiveDuplicateRemove.java" element2="/testSkills/src/test1/duplicateRemove.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1410202795877"/>
+</session>

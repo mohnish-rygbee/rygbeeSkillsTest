@@ -1,0 +1,18 @@
+package Test1;
+
+import java.util.ArrayList;
+
+public class duplicateRemove {
+
+	public static String dupliRemove(String str)
+	{
+		char [] arr = str.toCharArray();
+		ArrayList<String> strings = ArrayList.asList(arr);
+		
+		List<String> wordList = Arrays.asList(arr);
+		
+			  
+			}
+	return str;
+	}
+}
